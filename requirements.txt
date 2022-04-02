@@ -2,7 +2,8 @@ streamlit
 matplotlib
 seaborn
 urlextract
+squarify
 wordcloud
 pandas
 emoji
-squarify
+
