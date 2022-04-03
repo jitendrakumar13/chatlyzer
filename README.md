@@ -22,6 +22,7 @@ And many other insights you can get from this Analyzer. Anyone obviously, who ha
 - Find Top 10 words in the chat
 - find message distribution for each member (Useful in group chat analysis)
 - Find Top 10 Emojis used
+- Project Url https://chatlyzer.herokuapp.com/
 ## Project details
 	- Written on Python
  
