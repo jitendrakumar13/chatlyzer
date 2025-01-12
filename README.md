@@ -1,7 +1,3 @@
-Here’s the updated `README.md` file for your **Chatlyzer** project, incorporating the details you provided:
-
----
-
 # 💬 Chatlyzer  
 
 ![Chatlyzer Screenshot 1](https://user-images.githubusercontent.com/99127748/161411686-431215e6-83a8-4ac4-af30-efbf89e68a7f.png)  
@@ -62,7 +58,3 @@ If you'd like to have more chat patterns supported, feel free to raise an issue.
 ## 🌐 Connect With Me  
 
 - **LinkedIn:** [Jitendra Kumar](https://www.linkedin.com/in/jeetu182370/)  
-
----
-
-Feel free to customize further if needed! Let me know if you want me to include additional details. 😊
